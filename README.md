@@ -1,3 +1,3 @@
-#page 404
+# page 404
 
-![image](/home/hepta/Pictures/404-error.png)
+![image](../Pictures/404-error.png)
