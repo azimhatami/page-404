@@ -1,3 +1,3 @@
 # page 404
 
-![image](../Pictures/404-error.png)
+![image](image/404-error.png)
